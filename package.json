@@ -1,0 +1,28 @@
+{
+  "name": "my_first_colors_module",
+  "version": "0.0.3",
+  "main": "./index",
+  "dependencies": {
+    "colors": "0.5.0"
+  },
+  "description": "node.js 测试模块",
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gh72029002/nodejs_custom_module.git"
+  },
+  "keywords": [
+    "color",
+    "my",
+    "color"
+  ],
+  "author": "WenfengHu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gh72029002/nodejs_custom_module/issues"
+  },
+  "homepage": "https://github.com/gh72029002/nodejsi_custom_module#readme"
+}
